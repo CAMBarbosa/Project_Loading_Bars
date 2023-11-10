@@ -26,3 +26,7 @@ This project page was inspired on the following:
 [Create a Progress Bar in React From Scratch](https://www.youtube.com/watch?v=5nq61iIKVDE) by [Developer George](https://www.youtube.com/@developer_george)
 
 [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+
+[Multi page  website with react](https://www.geeksforgeeks.org/how-to-create-a-multi-page-website-using-react-js/) in [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
+[Typescript and Clock](https://stackblitz.com/edit/typescript-css-clock?file=index.ts) by [LDWDev](https://stackblitz.com/@LDWDev)
